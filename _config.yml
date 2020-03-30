@@ -8,7 +8,7 @@ title: Your awesome title
 email: your-email@example.com
 description: >-
   Experiments, ideas, side projects and
-  other stuff in English and Russian languages
+  other stuff in English and Russian
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Dmitris
