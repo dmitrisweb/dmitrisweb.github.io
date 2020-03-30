@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.skip-to-content {
+  background: white;
+  height: 50px;
+  left: 50%;
+  padding: 20px 20px 8px;
+  position: absolute;
+  transform: translateY(-100%) translateX(-50%);
+  transition: transform 0.3s;
+  border-radius: 5px;
+}
+.skip-to-content:focus {
+  transform: translateY(-20%) translateX(-50%);
+}
